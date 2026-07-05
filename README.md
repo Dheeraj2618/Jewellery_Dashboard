@@ -90,7 +90,7 @@ The dataset was cleaned using Microsoft Excel by:
 ```text
 Jewellery Analysis/
 │
-├─ Jewllery_Dashboard.png
+├─ JewlleryDashboard.png
 ├── jewllery_data.xlsx
 └── README.md
 ```
@@ -99,7 +99,7 @@ Jewellery Analysis/
 
 ## 📷 Dashboard Preview
 
-![Jewellery Dashboard]( Jewllery_Dashboard.png)
+![Jewellery Dashboard](JewlleryDashboard.png)
 
 ---
 
